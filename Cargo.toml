@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "k-engine-core",
+    "k-engine-macros",
+    "k-engine-app",
+]
